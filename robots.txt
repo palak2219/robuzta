@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-live-url.com/sitemap.xml
+Sitemap: https://robuzta.netlify.app/sitemap.xml
